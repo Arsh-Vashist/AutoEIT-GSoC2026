@@ -1,7 +1,6 @@
 # AutoEIT - Test I: Audio Transcription
 
-This repository contains my submission for Test I of the AutoEIT project 
-for GSoC 2026 under HumanAI Foundation.
+This repository contains my submission for Test I of the AutoEIT project under HumanAI Foundation.
 
 ## Overview
 The task involved transcribing 4 Spanish EIT (Elicited Imitation Task) audio 
